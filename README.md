@@ -17,6 +17,6 @@ If you are inclined with a Python script, refer to these files here in GitHub:
 * performance.py
 
 
-** I am responsible for any error in this analysis. If you spot an error please let me know. I also welcome any feedback. Thank you for your time and attention. ** 
+**I am responsible for any error in this analysis. If you spot an error please let me know. I also welcome any feedback. Thank you for your time and attention.** 
 > I am reachable at https://www.linkedin.com/in/shafierahim/. Send me a message there. 
 
